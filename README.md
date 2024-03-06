@@ -181,6 +181,13 @@
 </p>
 
 <br/>
-<h3 align="left">My activities:</h3>
+<h3 align="left">My Stats:</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PhuocDinh462&theme=radical" alt="Streak"/>
+</p>
 
-[![PhuocDinh462's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark)]
+<br/>
+<h3 align="left">My activities:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark" alt="Activity graph"/>
+</p>
