@@ -198,8 +198,8 @@
   <tr>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=default">
       </picture>
     </td>
     <td valign="top">
