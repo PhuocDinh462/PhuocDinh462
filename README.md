@@ -201,6 +201,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark" alt="Activity graph"/>
-</p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=minimal">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark">
+</picture>
