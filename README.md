@@ -196,12 +196,17 @@
 <h3 align="left">Stats:</h3>
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=radical"/></td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=default">
+      </picture>
+    </td>
     <td valign="top"><img src="https://streak-stats.demolab.com/?user=PhuocDinh462&theme=radical"/></td>
   </tr>
 </table>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=minimal">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=minimal">
 </picture>
