@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
 <h3 align="center">A fullstack web and mobile developer</h3>
 
+<br/>
+
 <p align="center">
   <img src="text_animation.svg" />
 </p>
