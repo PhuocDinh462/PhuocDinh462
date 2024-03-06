@@ -110,7 +110,7 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png"
+      src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"
       alt="nestjs"
       width="40"
       height="40"
