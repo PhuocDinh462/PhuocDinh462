@@ -3,6 +3,7 @@
 
 <p align="left"></p>
 
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -178,3 +179,8 @@
     />
   </a>
 </p>
+
+<br/>
+<h3 align="left">My activities:</h3>
+
+[![PhuocDinh462's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark)](https://github.com/PhuocDinh462/github-readme-activity-graph)
