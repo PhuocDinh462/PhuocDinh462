@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Phuoc</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
+<h3 align="center">A fullstack web and mobile developer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
