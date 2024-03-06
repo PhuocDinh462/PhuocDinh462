@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
 <h3 align="center">A fullstack web and mobile developer</h3>
 
-<p align="left"></p>
+<p align="center">
+  <img src="gitartwork.svg" />
+</p>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
