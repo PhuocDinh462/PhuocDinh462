@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack web and mobile developer</h3>
 
 <p align="center">
-  <img src="gitartwork.svg" />
+  <img src="text_animation.svg" />
 </p>
 
 <br/>
