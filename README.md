@@ -36,7 +36,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGExGU1VJFV7OZoseaU_L7tdJ9mHruoaF74cTvRcJq-ozfd05qrnxCkn5cxecHFsM8wY&usqp=CAU"
       alt="express"
       width="40"
       height="40"
