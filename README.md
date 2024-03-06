@@ -183,4 +183,4 @@
 <br/>
 <h3 align="left">My activities:</h3>
 
-[![PhuocDinh462's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark)](https://github.com/PhuocDinh462/github-readme-activity-graph)
+[![PhuocDinh462's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark)]
