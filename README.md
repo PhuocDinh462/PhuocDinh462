@@ -191,7 +191,7 @@
 </p>
 
 <br/>
-<h3 align="left">Activities:</h3>
+<h3 align="left">Stats:</h3>
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=radical"/></td>
