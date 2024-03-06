@@ -212,6 +212,6 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=react-dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&theme=minimal">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&theme=minimal">
 </picture>
