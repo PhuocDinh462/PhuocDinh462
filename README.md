@@ -192,7 +192,7 @@
 
 <br/>
 <h3 align="left">Activities:</h3>
-<table border="0">
+<table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&theme=radical"/></td>
     <td valign="top"><img src="https://streak-stats.demolab.com/?user=PhuocDinh462&theme=radical"/></td>
