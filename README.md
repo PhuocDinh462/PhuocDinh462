@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=PhuocDinh462)
 
 <h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
-<h3 align="center">A fullstack web and mobile developer</h3>
+<h3 align="center">A web and mobile developer</h3>
 
 <br/>
 
