@@ -12,7 +12,10 @@
 <br/>
 <h2 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,bootstrap,tailwind,materialui,babel,vite,dart,flutter,nodejs,express,nestjs,docker,mongodb,mysql,git,github,figma,postman,cpp,cs,java,python,unity,vscode">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2ccss%2csass%2cjs%2cts%2creact%2credux%2cbootstrap%2ctailwind%2cmaterialui%2cbabel%2cvite%2cdart%2cflutter%2cnodejs%2cexpress%2cnestjs%2cdocker%2cmongodb%2cmysql%2cgit%2cgithub%2cfigma%2cpostman%2ccpp%2ccs%2cjava%2cpython%2cunity%2cvscode&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,bootstrap,tailwind,materialui,babel,vite,dart,flutter,nodejs,express,nestjs,docker,mongodb,mysql,git,github,figma,postman,cpp,cs,java,python,unity,vscode&theme=light">
+</picture>
 </p>
 
 <br/>
