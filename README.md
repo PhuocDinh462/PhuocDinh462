@@ -1,7 +1,6 @@
-![](https://komarev.com/ghpvc/?username=PhuocDinh462)
-
 <h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
 <h3 align="center">A web and mobile developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PhuocDinh462"/> <img src="https://badges.pufler.dev/repos/PhuocDinh462"/></p>
 
 <br/>
 
