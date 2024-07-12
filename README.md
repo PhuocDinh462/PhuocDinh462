@@ -2,7 +2,8 @@
 <h3 align="center">A web and mobile developer</h3>
 <p align="center">
 <!--   <img src="https://badges.pufler.dev/repos/PhuocDinh462"/> -->
-  <img src="https://komarev.com/ghpvc/?username=PhuocDinh462"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=PhuocDinh462"/> -->
+  <img src="https://visitcount.itsvg.in/api?id=phuocdinh462&label=Profile%20Views&color=0&pretty=false"/>
 <!--   <img src="https://badges.pufler.dev/years/PhuocDinh462"/> -->
 </p>
 
