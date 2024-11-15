@@ -37,8 +37,8 @@
     </td>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PhuocDinh462&theme=radical">
-        <img src="https://streak-stats.demolab.com/?user=PhuocDinh462&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=radical">
+        <img src="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=default">
       </picture>
     </td>
   </tr>
