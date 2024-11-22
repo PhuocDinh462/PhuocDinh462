@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi&nbsp;
-  <img width="25px" src="waving.gif">
+  <picture><img width="25px" src="waving.gif"></picture>
   , I'm Phuoc Dinh
 </h1>
 <h3 align="center">A web and mobile developer</h3>
@@ -22,9 +22,9 @@
 
 <br/>
 <h2 align="center">
-  <img width="16px" src="tag.gif">
+  <picture><img width="16px" src="tag.gif"></picture>
   &nbsp;Languages and Tools&nbsp;
-  <img width="16px" src="tag.gif">
+  <picture><img width="16px" src="tag.gif"></picture>
 </h2>
 <div align="center">
   <picture>
@@ -35,9 +35,9 @@
 
 <br/>
 <h2 align="center">
-  <img width="16px" src="star.gif">
+  <picture><img width="16px" src="star.gif"></picture>
   GitHub Stats
-  <img width="16px" src="star.gif">
+  <picture><img width="16px" src="star.gif"></picture>
 </h2>
 <table>
   <tr>
