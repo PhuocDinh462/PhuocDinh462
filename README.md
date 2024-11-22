@@ -36,7 +36,7 @@
 <br/>
 <h2 align="center">
   <img width="16px" src="star.gif">
-  GitHub Stats
+  &nbsp;GitHub Stats&nbsp;
   <img width="16px" src="star.gif">
 </h2>
 <table>
