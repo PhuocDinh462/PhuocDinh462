@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Phuoc Dinh</h1>
+<h1 align="center">
+  Hi&nbsp;
+  <img width="25px" src="waving.gif">
+  , I'm Phuoc Dinh
+</h1>
 <h3 align="center">A web and mobile developer</h3>
 <div align="center">
   <picture>
@@ -17,7 +21,11 @@
 </div>
 
 <br/>
-<h2 align="center">Languages and Tools</h3>
+<h2 align="center">
+  <img width="16px" src="tag.gif">
+  &nbsp;Languages and Tools&nbsp;
+  <img width="16px" src="tag.gif">
+</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2ccss%2csass%2cjs%2cts%2creact%2credux%2cbootstrap%2ctailwind%2cmaterialui%2cbabel%2cvite%2cdart%2cflutter%2cnodejs%2cexpress%2cnestjs%2cdocker%2cmongodb%2cmysql%2cgit%2cgithub%2cfigma%2cpostman%2ccpp%2ccs%2cjava%2cpython%2cunity%2cvscode&theme=dark">
@@ -26,7 +34,11 @@
 </div>
 
 <br/>
-<h2 align="center">GitHub Stats</h3>
+<h2 align="center">
+  <img width="16px" src="star.gif">
+  GitHub Stats
+  <img width="16px" src="star.gif">
+</h2>
 <table>
   <tr>
     <td valign="top">
