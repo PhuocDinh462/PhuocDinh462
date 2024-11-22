@@ -35,9 +35,9 @@
 
 <br/>
 <h2 align="center">
-  <picture><img width="16px" src="star.gif"></picture>
+  <picture><img width="16px" src="sparkles.gif"></picture>
   &nbsp;GitHub Stats&nbsp;
-  <picture><img width="16px" src="star.gif"></picture>
+  <picture><img width="16px" src="sparkles.gif"></picture>
 </h2>
 <table>
   <tr>
