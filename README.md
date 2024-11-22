@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi&nbsp;
+  Hi
   <picture><img width="25px" src="waving.gif"></picture>
   , I'm Phuoc Dinh
 </h1>
