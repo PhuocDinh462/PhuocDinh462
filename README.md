@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi
-  <picture><img width="25px" src="waving.gif"></picture>
+  <picture><img width="25px" src="images/waving.gif"></picture>
   , I'm Phuoc Dinh
 </h1>
 <h3 align="center">A web and mobile developer</h3>
@@ -15,16 +15,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="text_animation_dark.svg">
-    <img src="text_animation_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="images/text_animation_dark.svg">
+    <img src="images/text_animation_light.svg">
   </picture>
 </div>
 
 <br/>
 <h2 align="center">
-  <picture><img width="16px" src="tag.gif"></picture>
+  <picture><img width="16px" src="images/tag.gif"></picture>
   &nbsp;Languages and Tools&nbsp;
-  <picture><img width="16px" src="tag.gif"></picture>
+  <picture><img width="16px" src="images/tag.gif"></picture>
 </h2>
 <div align="center">
   <picture>
@@ -35,9 +35,9 @@
 
 <br/>
 <h2 align="center">
-  <picture><img width="16px" src="sparkles.gif"></picture>
+  <picture><img width="16px" src="images/sparkles.gif"></picture>
   &nbsp;GitHub Stats&nbsp;
-  <picture><img width="16px" src="sparkles.gif"></picture>
+  <picture><img width="16px" src="images/sparkles.gif"></picture>
 </h2>
 <table>
   <tr>
