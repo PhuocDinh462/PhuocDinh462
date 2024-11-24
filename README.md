@@ -41,13 +41,13 @@
 </h2>
 <table>
   <tr>
-    <td valign="center">
+    <td valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=radical">
         <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=default">
       </picture>
     </td>
-    <td valign="center">
+    <td valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=radical">
         <img src="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=default">
