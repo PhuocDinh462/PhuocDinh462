@@ -54,7 +54,9 @@
       </picture>
     </td>
   </tr>
-  <tr></tr>
+  
+  <tr/>
+  
   <tr>
     <td colspan="2">
       <picture>
