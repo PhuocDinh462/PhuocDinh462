@@ -54,9 +54,7 @@
       </picture>
     </td>
   </tr>
-</table>
-
-<table>
+  <tr></tr>
   <tr>
     <td colspan="2">
       <picture>
@@ -66,4 +64,3 @@
     </td>
   </tr>
 </table>
-
