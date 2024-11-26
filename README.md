@@ -23,7 +23,7 @@
 <br/>
 <h2 align="center">
   <picture><img width="16px" src="images/tag.gif"></picture>
-  &nbsp;Languages and Tools&nbsp;
+  &nbsp;Tech Stack&nbsp;
   <picture><img width="16px" src="images/tag.gif"></picture>
 </h2>
 <div align="center">
