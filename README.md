@@ -43,13 +43,13 @@
   <tr>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=radical">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=react">
         <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=default">
       </picture>
     </td>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&background=00000000&hide_border=true&theme=radical">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&background=00000000&hide_border=true&theme=react&currStreakNum=ffffff">
         <img src="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&background=00000000&hide_border=true&theme=default&ring=5194F0&fire=5194F0&currStreakLabel=2F80ED&currStreakNum=434D58&sideNums=434D58">
       </picture>
     </td>
@@ -60,7 +60,7 @@
   <tr>
     <td colspan="2">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=redical">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=react&point=ffffff">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contributions&nbsp;Graph&hide_border=true&bg_color=00000000&theme=minimal">
       </picture>
     </td>
