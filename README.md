@@ -43,20 +43,21 @@
   <tr>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=default">
       </picture>
     </td>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=radical">
-        <img src="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&background=00000000&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats-five-jet.vercel.app?user=phuocdinh462&background=00000000&hide_border=true&theme=default">
       </picture>
     </td>
   </tr>
+    <td colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=redical">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contributions&nbsp;Graph&hide_border=true&bg_color=00000000&theme=minimal">
+      </picture>
+    </td>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&theme=react-dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contributions&nbsp;Graph&theme=minimal">
-</picture>
