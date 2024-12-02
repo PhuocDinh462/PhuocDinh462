@@ -49,8 +49,8 @@
     </td>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=phuocdinh462&background=00000000&hide_border=true&theme=react&currStreakNum=ffffff">
-        <img src="https://streak-stats.demolab.com/?user=phuocdinh462&background=00000000&hide_border=true&theme=default&ring=5194F0&fire=5194F0&currStreakLabel=2F80ED&currStreakNum=434D58&sideNums=434D58">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-five-jet.vercel.app/?user=phuocdinh462&background=00000000&hide_border=true&theme=react&currStreakNum=ffffff">
+        <img src="https://github-readme-streak-stats-five-jet.vercel.app/?user=phuocdinh462&background=00000000&hide_border=true&theme=default&ring=5194F0&fire=5194F0&currStreakLabel=2F80ED&currStreakNum=434D58&sideNums=434D58">
       </picture>
     </td>
   </tr>
