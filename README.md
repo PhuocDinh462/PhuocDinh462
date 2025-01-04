@@ -9,7 +9,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=PhuocDinh462&label=Profile%20Views&color=0&pretty=false">
     <img src="https://visitcount.itsvg.in/api?id=PhuocDinh462&label=Profile%20Views&color=12&pretty=false">
   </picture> -->
-  <img src="https://komarev.com/ghpvc/?username=PhuocDinh462"/>
+  <img src="https://komarev.com/ghpvc/?style=for-the-badge&color=blueviolet&username=PhuocDinh462"/>
 </div>
 
 <br/>
