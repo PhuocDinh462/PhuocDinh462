@@ -5,10 +5,11 @@
 </h1>
 <h3 align="center">A web and mobile developer</h3>
 <div align="center">
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=PhuocDinh462&label=Profile%20Views&color=0&pretty=false">
     <img src="https://visitcount.itsvg.in/api?id=PhuocDinh462&label=Profile%20Views&color=12&pretty=false">
-  </picture>
+  </picture> -->
+  <img src="https://komarev.com/ghpvc/?username=PhuocDinh462"/>
 </div>
 
 <br/>
