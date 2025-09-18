@@ -44,8 +44,8 @@
   <tr>
     <td valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=react">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=default">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-seven-91.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=react">
+        <img src="https://github-readme-stats-nu-seven-91.vercel.app/api?username=PhuocDinh462&show_icons=true&custom_title=GitHub&nbsp;Stats&bg_color=00000000&hide_border=true&theme=default">
       </picture>
     </td>
     <td valign="middle">
