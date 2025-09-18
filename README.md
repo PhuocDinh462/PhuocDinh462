@@ -61,8 +61,8 @@
   <tr>
     <td colspan="2">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=react&point=ffffff">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocDinh462&custom_title=Contributions&nbsp;Graph&hide_border=true&bg_color=00000000&theme=minimal">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-eosin-xi.vercel.app/graph?username=PhuocDinh462&custom_title=Contribution&nbsp;Graph&hide_border=true&bg_color=00000000&theme=react&point=ffffff">
+        <img src="https://github-readme-activity-graph-eosin-xi.vercel.app/graph?username=PhuocDinh462&custom_title=Contributions&nbsp;Graph&hide_border=true&bg_color=00000000&theme=minimal">
       </picture>
     </td>
   </tr>
